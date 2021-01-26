@@ -63,7 +63,7 @@ buildliner_add_app_def(md
 )
 
 
-buildliner_add_app_def(md-ut
+buildliner_add_app_unit_test(md-ut
     UTASSERT
     NO_HELGRIND
     NO_MASSIF
